@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Teste Pessoal</string>
+    <string name="lbl_name">Digite seu nome ;)</string>
+    <string name="lbl_idade">Digite sua idade ;)</string>
+    <string name="lbl_sexo">Escolha seu sexo: </string>
+    <string name="lbl_masculino">Masculino</string>
+    <string name="lbl_feminino">Feminino</string>
+    <string name="btn_name_enviar">Enviar</string>
+    <string name="btn_name_resp_ques">Responder Questionário</string>
+    <string name="lbl_digite_o_tempo_em_meses">Digite o tempo em meses ;)</string>
+    <string name="lbl_primeira_pergunta_perfil_f">1 - Você está em um relacionamento?</string>
+    <string name="lbl_segunda_pergunta_perfil_f">2 - Quanto tempo?</string>
+    <string name="lbl_terceira_pergunta_perfil_f">3 - Você tem animais de estimação?</string>
+    <string name="lbl_quarta_pergunta_perfil_f">4 - Escolha um temperamento?</string>
+    <string name="lbl_quinta_pergunta_perfil_f">5 - Uma cor favorita?</string>
+    <string name="lbl_sexta_pergunta_perfil_f">6 - Melhor lugar para estar?</string>
+    <string name="lbl_setima_pergunta_perfil_f">7 - Estação preferida?</string>
+    <string name="lbl_oitava_pergunta_perfil_f">8 - Pratica esporte?</string>
+    <string name="lbl_nona_pergunta_perfil_f">9 - Qual seu humor hoje?</string>
+    <string name="rbtn_name_sim">Sim</string>
+    <string name="rbtn_name_nao">Não</string>
+    <string name="rbtn_sanguinio">Sanguíneo</string>
+    <string name="rbtn_flaumatico">Fleumático</string>
+    <string name="rbtn_colerico">Colérico</string>
+    <string name="rbtn_melancolico">Melancólico</string>
+    <string name="rbtn_verao">Verão</string>
+    <string name="rbtn_inverno">Inverno</string>
+    <string name="rbtn_primavera">Primavera</string>
+    <string name="rbtn_outono">Outono</string>
+    <string name="rbtn_irritada">Irritada</string>
+    <string name="rbtn_sonolenta">Sonolenta</string>
+    <string name="rbtn_alegre">Alegre</string>
+    <string name="rbtn_triste">Triste</string>
+
+</resources>

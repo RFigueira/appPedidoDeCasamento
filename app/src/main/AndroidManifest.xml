@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.codepampa.testepessoal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Principal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".BoasVindas" />
+        <activity android:name=".PrimeiraPergunta" />
+        <activity android:name=".SegundaPergunta" />
+        <activity android:name=".TerceiraPergunta" />
+        <activity android:name=".QuartaPergunta" />
+        <activity android:name=".QuintaPergunta" />
+        <activity android:name=".SextaPergunta" />
+        <activity android:name=".SetimaPergunta" />
+        <activity android:name=".OitavaPergunta" />
+        <activity android:name=".NonaPergunta" />
+        <activity android:name=".Video"></activity>
+    </application>
+
+</manifest>
